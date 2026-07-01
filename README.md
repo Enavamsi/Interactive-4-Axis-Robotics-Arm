@@ -57,6 +57,3 @@ https://github.com/user-attachments/assets/6f700f48-e102-490d-933e-c710815d76de
 * Increased speed and accuracy with tighter tolerances.
 * Improved flexibility through advances in joint design and control systems.
 * Enhanced intelligence by utilizing more powerful processors to adapt to new tasks.
-
-## 🤝 Team
-* **Manoj** * **Vena Vamsi** * **Manish** * **Mirza** *(Central Institute of Tool Design - DARE-2021)* ```
