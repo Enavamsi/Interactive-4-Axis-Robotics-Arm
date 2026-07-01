@@ -1,5 +1,4 @@
 # Interactive-4-Axis-Robotics-Arm
-# 🤖 Interactive 4-Axis Robotics Arm
 
 ## 📌 Overview
 This project features a highly adaptable 4-axis robotic arm designed to simulate industrial automation tasks such as pick-and-place operations, assembly, and material handling. Powered by an ATMEGA328U microcontroller, the arm can be manually trained by a user using potentiometers and will memorize the positions to play them back in a continuous loop.
